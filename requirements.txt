@@ -1,7 +1,4 @@
-cd ~/assign
-cat > requirements.txt <<'EOF'
 fastapi
 uvicorn
 pandas
 httpx
-EOF
